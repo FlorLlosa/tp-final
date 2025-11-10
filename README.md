@@ -1,4 +1,4 @@
-# TP Final - Backend Express con MongoDB usando Docker.
+# TP Final Laboratorio II - Backend Express con MongoDB usando Docker.
 
 Este proyecto es parte del trabajo práctico final de la materia Laboratorio II. Se trata de una aplicación backend hecha con Express que se conecta a una base de datos MongoDB, todo corriendo en contenedores Docker.
 
