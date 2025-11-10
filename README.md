@@ -25,7 +25,7 @@ Este proyecto es parte del trabajo práctico final de la materia Laboratorio II.
 
 ## Estructura del Proyecto
 
-mi-stack-backend/
+tp-final/
 ├── app.js               # Código del servidor Express
 ├── package.json         # Dependencias del proyecto
 ├── Dockerfile           # Imagen del backend
