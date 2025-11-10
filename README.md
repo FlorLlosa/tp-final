@@ -12,7 +12,7 @@ Este proyecto es parte del trabajo práctico final de la materia Laboratorio II.
 1. Clonar el repositorio:
 
 ```bash
-    git clone https://github.com/tu-usuario/mi-stack-backend.git
+    git clone https://github.com/FlorLlosa/tp-final.git
     cd tp-final
 
 2. Levantar los servicios con Docker Compose:
